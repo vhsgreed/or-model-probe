@@ -26,3 +26,7 @@ The key file should contain your `sk-or-v1-...` key on one line.
 
 - Default mode: one model ID per line, healthy only, fastest first.
 - `--json`: full health map `{model: {ok, ms, status}}` for scripting.
+
+## Links
+
+Part of the [vhsgreed](https://vhsgreed.win) toolset: data, code, and methods in the open.
